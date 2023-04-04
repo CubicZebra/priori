@@ -1,0 +1,10 @@
+LICENSE
+README.rst
+setup.py
+priori.egg-info/PKG-INFO
+priori.egg-info/SOURCES.txt
+priori.egg-info/dependency_links.txt
+priori.egg-info/top_level.txt
+src/__init__.py
+src/docs/__init__.py
+src/docs/scripta.py
